@@ -1,0 +1,39 @@
+A seguir, um resumo da avaliação do sistema XXXXX: 
+  A instalação do software foi realizada de forma parcialmente automatizada, 
+sendo necessário realizar manualmente a instalação de outro software requerido. 
+Os manuais de instalação e empacotamento orientam o usuário sobre os procedimentos.
+Entretanto, a documentação não disponibiliza manual de usuário, documento de descrição de produto 
+e informações sobre o procedimento de desinstalação, impossibilitando a avaliação deste item.
+  A interface é organizada de forma lógica, apresenta tipos, tamanhos de letras e cores 
+que facilitam a identificação e leitura das funções e campos de entradas de dados. 
+Entretanto, não permite sua personalização e não possui help on-line.  Há mensagens de 
+orientações ao longo da realização das tarefas. Todas as funcionalidades do software foram 
+executadas corretamente, não apresentando falhas ou propagação de erros durante sua execução 
+e o tempo de processamento e resposta obtidos foram satisfatórios.
+
+A seguir, um resumo da avaliação do sistema GECAMed: 
+  Igualmente a avaliação anterior, o processo de instalação demandou que o banco de dados 
+utilizado pelo software fosse instalado manualmente. A documentação do sistema é on-line 
+e o texto é claro e objetivo, contendo imagens que auxiliam na compreensão das funcionalidades.
+Entretanto, a documentação não contém exemplos para todas as funções do sistema e está disponível
+apenas nos idiomas alemão e francês. Além disso, a documentação não apresenta instruções sobre o 
+procedimento de desinstalação, inviabilizando a avaliação deste item.
+  Os elementos de interface estão organizados de maneira lógica, possuem ícones e títulos que 
+representam o seu significado, entretanto cada tela agrupa muitas funções, o que dificulta a 
+leitura e identificação das mesmas. O software se manteve funcional durante a aplicação da avaliação,
+porém apresentou propagação de erros na entrada de um volume de dados fora dos limites permitidos, 
+não exibindo mensagens informativas para o usuário.
+
+A seguir, um resumo da avaliação do S-RES XXXXX: 
+  A documentação existente é um guia básico de operações contendo um resumo das funções mais 
+importantes do software, apenas para os perfis de usuário médico e residente, não contemplando 
+instruções de uso para todos os perfis de usuário existentes. A documentação está organizada de 
+forma lógica e evolutiva e orienta o usuário na utilização do sistema, entretanto não apresenta 
+exemplos e não especifica requisitos operacionais para funcionamento do software. A interface 
+contém uma distribuição uniforme do seu conteúdo, com tamanho de fonte e contraste de cores que 
+facilitam a leitura e identificação das funções. Cada tela possui uma opção de ajuda, a qual 
+apresenta de forma estruturada orientações sobre como o usuário pode operar a funcionalidade da tela.
+  Em se tratando de um S-RES, o XXXXX permite localizar registros e cadastrar eventos sobre a 
+situação da saúde do paciente. Os eventos são dispostos de forma cronológica. Permite gerenciar 
+o status das atividades e processos e registrar o responsável e data das alterações. Em virtude
+da limitação de acesso ao sistema, foi impossibilitada a avaliação da instalação e desinstalação.
