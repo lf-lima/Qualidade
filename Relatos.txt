@@ -1,4 +1,4 @@
-A seguir, um resumo da avaliação do sistema XXXXX: 
+A seguir, um resumo da avaliação do sistema Agendador: 
   A instalação do software foi realizada de forma parcialmente automatizada, 
 sendo necessário realizar manualmente a instalação de outro software requerido. 
 Os manuais de instalação e empacotamento orientam o usuário sobre os procedimentos.
@@ -24,7 +24,7 @@ leitura e identificação das mesmas. O software se manteve funcional durante a 
 porém apresentou propagação de erros na entrada de um volume de dados fora dos limites permitidos, 
 não exibindo mensagens informativas para o usuário.
 
-A seguir, um resumo da avaliação do S-RES XXXXX: 
+A seguir, um resumo da avaliação do S-RES SIH-HC: 
   A documentação existente é um guia básico de operações contendo um resumo das funções mais 
 importantes do software, apenas para os perfis de usuário médico e residente, não contemplando 
 instruções de uso para todos os perfis de usuário existentes. A documentação está organizada de 
@@ -33,7 +33,7 @@ exemplos e não especifica requisitos operacionais para funcionamento do softwar
 contém uma distribuição uniforme do seu conteúdo, com tamanho de fonte e contraste de cores que 
 facilitam a leitura e identificação das funções. Cada tela possui uma opção de ajuda, a qual 
 apresenta de forma estruturada orientações sobre como o usuário pode operar a funcionalidade da tela.
-  Em se tratando de um S-RES, o XXXXX permite localizar registros e cadastrar eventos sobre a 
+  Em se tratando de um S-RES, o SIH-HC permite localizar registros e cadastrar eventos sobre a 
 situação da saúde do paciente. Os eventos são dispostos de forma cronológica. Permite gerenciar 
 o status das atividades e processos e registrar o responsável e data das alterações. Em virtude
 da limitação de acesso ao sistema, foi impossibilitada a avaliação da instalação e desinstalação.
